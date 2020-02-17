@@ -150,30 +150,21 @@ _译者评：稳定的目标才是可以被长期追踪并最终实现的。在�
 外部环境决定了目标达成的条件。一个设计正确的内部系统将会改变自身以适应环境。因此，它的行为是由外部环境所主导的，就如“理想理性的经济人”一样。想要预测这类系统的行为的话，我们只需要去考虑“一个理性的系统在如此情境下会作何反映”即可。其具体的行为特征将由外部环境特征决定。$$^9$$
 
 {% hint style="info" %}
-9. 关于理性和改变在经济和组织理论中所扮演的重要角色，我在这些书中有详细讨论：
-
-* introduction to part IV, "Rationality and Administrative Decision Making," of my Models of Man \(New York: Wiley, 1957\)
-* pp. 38 41, 80 81, and 240 244 of Administrative Behavior
-* 本书第二章
+1. 关于理性和改变在经济和组织理论中所扮演的重要角色，我在这些书中有详细讨论：
+2. introduction to part IV, "Rationality and Administrative Decision Making," of my Models of Man \(New York: Wiley, 1957\)
+3. pp. 38 41, 80 81, and 240 244 of Administrative Behavior
+4. 本书第二章
 {% endhint %}
 
-### 适应调节的极限
+## 适应调节的极限
 
-But matters must be just a little more complicated than this account suggests. 
+事情当然没有这么简单。如果愿望可以变成骏马，则所有乞丐都可以成为骑士。如果我们总能找到一个完美符合目标条件的内部系统的话，设计和愿望就是同义词了。“用于刮钻石的装置”定义了一个设计目标，这个目标可以由多种内部设计实现。但是在我们找到真正比钻石硬的物质之前，是达不到这个目标的。
 
+通常来讲，我们必须满足于一个“近似”达到设计目标的系统。这个系统没法对所有的环境情况做出符合目标的反应。当接近极限时，系统的内部构造会透过系统的表现不足而反应出来。
 
+Thus the motor controls described earlier are aimed at providing for "quick" reversal of the motor. But the motor must obey electromagnetic and mechanical laws, and we could easily confront the system with a task where the environment called for quicker reversal than the motor was capable of. In a benign environment we would learn from the motor only what it had been called upon to do; in a taxing environment we would learn something about its internal structure specifically about those aspects of the internal structure that were chiefly instrumental in limiting performance.10
 
-"If wishes were horses, all beggars would ride." 
-
-
-
-And if we could always specify a protean inner system that would take on exactly the shape of the task environment, designing would be synonymous with wishing. 
-
-
-
-"Means for scratching diamonds" defines a design objective, an objective that might be attained with the use of many different substances. 
-
-
-
-But the design has not been achieved until we have discovered at least one realizable inner system obeying the ordinary natural laws one material, in this case, hard enough to scratch diamonds.
+{% hint style="info" %}
+10. Compare the corresponding proposition on the design of administrative organizations: "Rationality, then, does not determine behavior. Within the area of rationality behavior is perfectly flexible and adaptable to abilities, goals, and knowledge. Instead, behavior is determined by the irrational and non-rational elements that bound the area of rationality . . . administrative theory must be concerned with the limits of rationality, and the manner in which organization affects these limits for the person making a decision." Administrative Behavior, p. 241. For a discussion of the same issue as it arises in psychology, see my "Cognitive Architectures and Rational Analysis: Comment," in Kurt Van Lehn \(ed.\), Architectures for Intelligence \(Hillsdale, NJ: Erlbaum, 1991\).
+{% endhint %}
 
