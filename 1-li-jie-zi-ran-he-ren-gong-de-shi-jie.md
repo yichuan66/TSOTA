@@ -149,5 +149,3 @@ _译者评：稳定的目标才是可以被长期追踪并最终实现的。在�
 
 The outer environment determines the conditions for goal attainment. If the inner system is properly designed, it will be adapted to the outer environment, so that its behavior will be determined in large part by the behavior of the latter, exactly as in the case of "economic man." To predict how it will behave, we need only ask, "How would a rationally designed system behave under these circumstances?" The behavior takes on the shape of the task environment.9
 
-ddd ggg
-
