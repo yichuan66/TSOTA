@@ -165,22 +165,14 @@ _译者评：稳定的目标才是可以被长期追踪并最终实现的。在�
 前文形容的电机控制系统把快速反转作为设计目标。但是电机本身必须遵守电磁定律，所以我们可以轻松的制定一个超出电机能力范围的反转速度。在一个友好的任务环境中，我们可以了解电机根据指令所作出的反应。在一个困难的环境中，我们则可以了解到电机的内部构造，尤其是那些限制了其性能的部分。$$^{10}$$
 
 {% hint style="info" %}
-10. Compare the corresponding proposition on the design of administrative organizations: "Rationality, then, does not determine behavior. 
+10. 上述推论同样可用于行政管理组织：
 
+_"理性本身并不决定行为。在完全理性的范围内，系统可以完美地适应并契合目标。与之相对的，系统的行为通常决定于其理性能力的边界……对于决策者来说，行政管理理论一定要考虑理智的边界，以及组织本身如何影响这些边界。_
 
+管理行为, 第241页
 
-Within the area of rationality behavior is perfectly flexible and adaptable to abilities, goals, and knowledge. 
+对于这个问题在心理学的体现，详见本文：
 
-
-
-Instead, behavior is determined by the irrational and non-rational elements that bound the area of rationality . . . administrative theory must be concerned with the limits of rationality, and the manner in which organization affects these limits for the person making a decision." 
-
-
-
-Administrative Behavior, p. 241. 
-
-
-
-For a discussion of the same issue as it arises in psychology, see my "Cognitive Architectures and Rational Analysis: Comment," in Kurt Van Lehn \(ed.\), Architectures for Intelligence \(Hillsdale, NJ: Erlbaum, 1991\).
+"Cognitive Architectures and Rational Analysis: Comment," in Kurt Van Lehn \(ed.\), Architectures for Intelligence \(Hillsdale, NJ: Erlbaum, 1991\).
 {% endhint %}
 
