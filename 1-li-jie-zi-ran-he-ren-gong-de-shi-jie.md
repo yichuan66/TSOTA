@@ -156,15 +156,31 @@ _译者评：稳定的目标才是可以被长期追踪并最终实现的。在�
 4. 本书第二章
 {% endhint %}
 
-## 适应调节的极限
+## 适应的极限
 
 事情当然没有这么简单。如果愿望可以变成骏马，则所有乞丐都可以成为骑士。如果我们总能找到一个完美符合目标条件的内部系统的话，设计和愿望就是同义词了。“用于刮钻石的装置”定义了一个设计目标，这个目标可以由多种内部设计实现。但是在我们找到真正比钻石硬的物质之前，是达不到这个目标的。
 
 通常来讲，我们必须满足于一个“近似”达到设计目标的系统。这个系统没法对所有的环境情况做出符合目标的反应。当接近极限时，系统的内部构造会透过系统的表现不足而反应出来。
 
-Thus the motor controls described earlier are aimed at providing for "quick" reversal of the motor. But the motor must obey electromagnetic and mechanical laws, and we could easily confront the system with a task where the environment called for quicker reversal than the motor was capable of. In a benign environment we would learn from the motor only what it had been called upon to do; in a taxing environment we would learn something about its internal structure specifically about those aspects of the internal structure that were chiefly instrumental in limiting performance.10
+前文形容的电机控制系统把快速反转作为设计目标。但是电机本身必须遵守电磁定律，所以我们可以轻松的制定一个超出电机能力范围的反转速度。在一个友好的任务环境中，我们可以了解电机根据指令所作出的反应。在一个困难的环境中，我们则可以了解到电机的内部构造，尤其是那些限制了其性能的部分。$$^{10}$$
 
 {% hint style="info" %}
-10. Compare the corresponding proposition on the design of administrative organizations: "Rationality, then, does not determine behavior. Within the area of rationality behavior is perfectly flexible and adaptable to abilities, goals, and knowledge. Instead, behavior is determined by the irrational and non-rational elements that bound the area of rationality . . . administrative theory must be concerned with the limits of rationality, and the manner in which organization affects these limits for the person making a decision." Administrative Behavior, p. 241. For a discussion of the same issue as it arises in psychology, see my "Cognitive Architectures and Rational Analysis: Comment," in Kurt Van Lehn \(ed.\), Architectures for Intelligence \(Hillsdale, NJ: Erlbaum, 1991\).
+10. Compare the corresponding proposition on the design of administrative organizations: "Rationality, then, does not determine behavior. 
+
+
+
+Within the area of rationality behavior is perfectly flexible and adaptable to abilities, goals, and knowledge. 
+
+
+
+Instead, behavior is determined by the irrational and non-rational elements that bound the area of rationality . . . administrative theory must be concerned with the limits of rationality, and the manner in which organization affects these limits for the person making a decision." 
+
+
+
+Administrative Behavior, p. 241. 
+
+
+
+For a discussion of the same issue as it arises in psychology, see my "Cognitive Architectures and Rational Analysis: Comment," in Kurt Van Lehn \(ed.\), Architectures for Intelligence \(Hillsdale, NJ: Erlbaum, 1991\).
 {% endhint %}
 
