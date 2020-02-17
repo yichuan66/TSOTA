@@ -157,5 +157,23 @@ _译者评：稳定的目标才是可以被长期追踪并最终实现的。在�
 * 本书第二章
 {% endhint %}
 
-### Limits of Adaptation
+### 适应调节的极限
+
+But matters must be just a little more complicated than this account suggests. 
+
+
+
+"If wishes were horses, all beggars would ride." 
+
+
+
+And if we could always specify a protean inner system that would take on exactly the shape of the task environment, designing would be synonymous with wishing. 
+
+
+
+"Means for scratching diamonds" defines a design objective, an objective that might be attained with the use of many different substances. 
+
+
+
+But the design has not been achieved until we have discovered at least one realizable inner system obeying the ordinary natural laws one material, in this case, hard enough to scratch diamonds.
 
