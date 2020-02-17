@@ -147,5 +147,15 @@ _译者评：稳定的目标才是可以被长期追踪并最终实现的。在�
 
 上述专利利用一个很简单的情境阐明了人工事物的性质。其核心在于利用事物目标把内外环境联系起来。事物的内部构造能够在一定环境中达成某种目标，在自然中，还有很多其他样式的构造可以满足同样的功能。
 
-The outer environment determines the conditions for goal attainment. If the inner system is properly designed, it will be adapted to the outer environment, so that its behavior will be determined in large part by the behavior of the latter, exactly as in the case of "economic man." To predict how it will behave, we need only ask, "How would a rationally designed system behave under these circumstances?" The behavior takes on the shape of the task environment.9
+外部环境决定了目标达成的条件。一个设计正确的内部系统将会改变自身以适应环境。因此，它的行为是由外部环境所主导的，就如“理想理性的经济人”一样。想要预测这类系统的行为的话，我们只需要去考虑“一个理性的系统在如此情境下会作何反映”即可。其具体的行为特征将由外部环境特征决定。$$^9$$
+
+{% hint style="info" %}
+9. 关于理性和改变在经济和组织理论中所扮演的重要角色，我在这些书中有详细讨论：
+
+* introduction to part IV, "Rationality and Administrative Decision Making," of my Models of Man \(New York: Wiley, 1957\)
+* pp. 38 41, 80 81, and 240 244 of Administrative Behavior
+* 本书第二章
+{% endhint %}
+
+### Limits of Adaptation
 
