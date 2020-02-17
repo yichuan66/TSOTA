@@ -176,3 +176,7 @@ _"理性本身并不决定行为。在完全理性的范围内，系统可以完
 "Cognitive Architectures and Rational Analysis: Comment," in Kurt Van Lehn \(ed.\), Architectures for Intelligence \(Hillsdale, NJ: Erlbaum, 1991\).
 {% endhint %}
 
+在正确的实用情况下，桥梁可以被简单地看做一个相对平直的车道。只有过载的时候，我们才会了解到其建筑材质的物理性能。
+
+
+
