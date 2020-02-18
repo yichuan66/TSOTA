@@ -237,25 +237,5 @@ _“支持任何有关数学原理的理论的主要理由一定是归纳法的�
 
 模拟技术对人工系统和适应性尤为适用。本章上一节对此类系统的解构说明了适用的原因。如果我们关心的系统特征发源于系统各部件的组织和它们之间的抽象联系，那么我们完全可以在不涉及系统组件内部构造的情况下模仿系统的行为。比如说，在很多情况中，我们只在乎材料的抗拉强度和抗压强度，而完全忽视了其化学性质，甚至连它是钢铁还是木头都不在乎。这种忽视是意义深远的。
 
-The motor control patent cited earlier illustrates this abstraction to organizational properties. 
-
-
-
-The invention consisted of a ''combination" of "reversing means," of "field weakening means," that is to say, of components specified in terms of their functioning in the organized whole. 
-
-
-
-How many ways are there of reversing a motor, or of weakening its field strength? 
-
-
-
-We can simulate the system described in the patent claims in many ways without reproducing even approximately the actual physical device that is depicted. 
-
-
-
-With a small additional step of abstraction, the patent claims could be restated to encompass mechanical as well as electrical devices. 
-
-
-
-I suppose that any undergraduate engineer at Berkeley, Carnegie Mellon University, or MIT could design a mechanical system embodying reversibility and variable starting torque so as to simulate the system of the patent.
+前文所提到的电机控制器专利很好地体现了这种抽象组织的性质。专利中所提及的发明由”反转装置“和”磁场减弱装置“所组成。这表明组件是由其功能以及在整个系统中的角色所定义的。我们有很多种实现电机反转或者减弱其磁场的方法。我们可以在完全不实现物理实体的情况下对这个系统进行模拟。如果在进一步抽象的话，这个专利甚至能够涵盖机械和电子这两个领域的设备。我认为任何一个伯克利，卡耐基梅隆或者MIT的学生都能够设计出一套模拟此专利的机械系统。
 
