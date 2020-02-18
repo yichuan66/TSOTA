@@ -235,7 +235,27 @@ _“支持任何有关数学原理的理论的主要理由一定是归纳法的�
 现今流行的演绎形式主义使我们忽略了这一重要事实。
 {% endhint %}
 
-Artificial systems and adaptive systems have properties that make them particularly susceptible to simulation via simplified models. The characterization of such systems in the previous section of this chapter explains why. Resemblance in behavior of systems without identity of the inner systems is particularly feasible if the aspects in which we are interested arise out of the organization of the parts, independently of all but a few properties of the individual components. Thus for many purposes we may be interested in only such characteristics of a material as its tensile and compressive strength. We may be profoundly unconcerned about its chemical properties, or even whether it is wood or iron.
+模拟技术对人工系统和适应性尤为适用。本章上一节对此类系统的解构说明了适用的原因。如果我们关心的系统特征发源于系统各部件的组织和它们之间的抽象联系，那么我们完全可以在不涉及系统组件内部构造的情况下模仿系统的行为。比如说，在很多情况中，我们只在乎材料的抗拉强度和抗压强度，而完全忽视了其化学性质，甚至连它是钢铁还是木头都不在乎。这种忽视是意义深远的。
 
-The motor control patent cited earlier illustrates this abstraction to organizational properties. The invention consisted of a ''combination" of "reversing means," of "field weakening means," that is to say, of components specified in terms of their functioning in the organized whole. How many ways are there of reversing a motor, or of weakening its field strength? We can simulate the system described in the patent claims in many ways without reproducing even approximately the actual physical device that is depicted. With a small additional step of abstraction, the patent claims could be restated to encompass mechanical as well as electrical devices. I suppose that any undergraduate engineer at Berkeley, Carnegie Mellon University, or MIT could design a mechanical system embodying reversibility and variable starting torque so as to simulate the system of the patent.
+The motor control patent cited earlier illustrates this abstraction to organizational properties. 
+
+
+
+The invention consisted of a ''combination" of "reversing means," of "field weakening means," that is to say, of components specified in terms of their functioning in the organized whole. 
+
+
+
+How many ways are there of reversing a motor, or of weakening its field strength? 
+
+
+
+We can simulate the system described in the patent claims in many ways without reproducing even approximately the actual physical device that is depicted. 
+
+
+
+With a small additional step of abstraction, the patent claims could be restated to encompass mechanical as well as electrical devices. 
+
+
+
+I suppose that any undergraduate engineer at Berkeley, Carnegie Mellon University, or MIT could design a mechanical system embodying reversibility and variable starting torque so as to simulate the system of the patent.
 
