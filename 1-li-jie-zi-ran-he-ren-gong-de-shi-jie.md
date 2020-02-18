@@ -217,3 +217,5 @@ _"理性本身并不决定行为。在完全理性的范围内，系统可以完
 
 ### 对未知的系统进行模拟
 
+The more interesting and subtle question is whether simulation can be of any help to us when we do not know very much initially about the natural laws that govern the behavior of the inner system. Let me show why this question must also be answered in the affirmative.
+
