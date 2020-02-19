@@ -30,7 +30,7 @@ description: Preface to Second Edition
 
 我会在适当的位置在脚注中说明别人给予我的帮助。在此我要特别感谢Andrew Newell，这位与我共事超过二十年的好伙伴。如果他不同意我本书中的某些论述，那么它们有可能就是错的。当然，对于剩下的部分，他要负责很大一部分责任。
 
-书中的许多观点，尤其在第三章和第四章，是由我和我的同事Lee W. Gregg共同完成的。在此之外，还有很多的学生在书中留下了他们的印记。在后者中，我想特别提及L. Stephen coles, Edward A. Feigenbaum, John Grason, Pad Langley, Robert K. Lindsay, David Neves, Ross Quillian, Laurent Siklossy, Donald S. Willianms,  和Thomas G. Willianms。他们的工作和本书的内容息息相关。
+书中的许多观点，尤其在第三章和第四章，是由我和我的同事Lee W. Gregg共同完成的。在此之外，还有很多的学生在书中留下了他们的印记。在后者中，我想特别提及L. Stephen coles, Edward A. Feigenbaum, John Grason, Pad Langley, Robert K. Lindsay, David Neves, Ross Quillian, Laurent Siklossy, Donald S. Willianms, 和Thomas G. Willianms。他们的工作和本书的内容息息相关。
 
 过往版本的第八章结合了来自George W. Corner, Richard H. Meier, John R. Platt, Andrew Schoene, Warren Weaver, 和William Wise的重要建议和数据。
 
@@ -41,14 +41,4 @@ description: Preface to Second Edition
 我还要感谢这些机构同意我将讲授的课程以这种统一的形式出版。Compton Lectures构成了本书的一，三，五章；Gaither Lectures构成了二，四，六章。
 
 鉴于本书的第一版（The MIT Press, 1969）获得了不错的评价，我会把本版的更新限定在对一，三，五，八章中一些明显的错误的修改，一些事实的更新，以及一些过渡段落的添加。
-
-
-
-
-
-
-
-
-
-
 

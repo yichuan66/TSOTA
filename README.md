@@ -6,33 +6,9 @@ description: The Sciences of the Artificial
 
 Third Edition
 
-
-
-
-
 To Allen Newell
 
 in memory of a friendship
 
-
-
-
-
 Herbert A. Simon
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

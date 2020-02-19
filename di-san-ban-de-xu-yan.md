@@ -14,11 +14,9 @@ description: Preface to Third Edition
 
 我很感谢我的助手Janet Hilf。她不仅帮助我空出时间来完成此次改版，也为本书从手稿到出版的过程提供了很多帮助。MIT Press的Deborah Cantor-Adams对手稿给出了独到的评价，使得我与出版社的交流变得顺畅而愉快。我同样很感谢她。
 
-除了那些在上一版本中为我提供帮助，支持，和友谊的人们，我希望单独提及我的一些同事。他们为本书新增的主题提供了很有价值的见解。Anders Erisson与我共同探索了协议分析\(protocol analysis\)的理论与实践；Pat Langley, Cary Bradshaw和Jan Zytkow与我协同研究了科学探索\(scientific discovery\)的过程；Yuichiro Anzai, Fernand Gober, Yumi Iwasaki, Deepak Kulkarni, Jill Larkin,  Jean-Louis Le Moigne, Anthony Leonardo, Yulin Qin, HOward Richman, Weimin SHen, Jim Staszewski, Hermina Tbachneck, Guojung Zhang, 和 Xinming Zhu. 说实话，我不知道该如何结束这个列表，因为帮助我的人实在太多了。我在此对我所有的朋友和同事表达深深的感谢。
+除了那些在上一版本中为我提供帮助，支持，和友谊的人们，我希望单独提及我的一些同事。他们为本书新增的主题提供了很有价值的见解。Anders Erisson与我共同探索了协议分析\(protocol analysis\)的理论与实践；Pat Langley, Cary Bradshaw和Jan Zytkow与我协同研究了科学探索\(scientific discovery\)的过程；Yuichiro Anzai, Fernand Gober, Yumi Iwasaki, Deepak Kulkarni, Jill Larkin, Jean-Louis Le Moigne, Anthony Leonardo, Yulin Qin, HOward Richman, Weimin SHen, Jim Staszewski, Hermina Tbachneck, Guojung Zhang, 和 Xinming Zhu. 说实话，我不知道该如何结束这个列表，因为帮助我的人实在太多了。我在此对我所有的朋友和同事表达深深的感谢。
 
 在第一章，我将阐述科学的目标，即把复杂而美妙的事物变得简洁易懂而不失美妙。如果读者们认为我通过本书在这个方向做到些许进步的话，我会非常高兴。
-
-
 
 Herbert A. Simon
 
