@@ -241,3 +241,31 @@ _“支持任何有关数学原理的理论的主要理由一定是归纳法的�
 
 ## 计算机作为人工事物
 
+No artifact devised by man is so convenient for this kind of functional description as a digital computer. 
+
+计算机无疑是最适合用于模拟的工具。
+
+It is truly protean, for almost the only ones of its properties that are detectable in its behavior \(when it is operating properly!\) are the organizational properties. 
+
+它非常的多变，因为其行为绝大部分都是组织性质而非内部构造性质。
+
+The speed with which it performs it basic operations may allow us to infer a little about its physical components and their natural laws; speed data, for example, would allow us to rule out certain kinds of "slow" components. 
+
+其运行速度可以让我们大致知道其内部构造的一部分必然是快速的。
+
+For the rest, almost no interesting statement that one can make about an operating computer bears any particular relation to the specific nature of the hardware. 
+
+除了这点之外，计算机和其硬件几乎没有必要的联系。
+
+A computer is an organization of elementary functional components in which, to a high approximation, only the function performed by those components is relevant to the behavior of the whole system.14
+
+计算机是由基本功能构件组织起来的，其行为完全由构件的组织关系所决定。
+
+{% hint style="info" %}
+14. 对于这段和下段的内容展开，详见 M. L. Minsky, op. cit.; then John von Neumann, "Probabilistic Logics and the Synthesis of Reliable Organisms from Unreliable Components," in C. E. Shannon and J. McCarthy \(eds.\), Automata Studies \(Princeton: Princeton University Press, 1956\).
+{% endhint %}
+
+### 计算机作为抽象事物
+
+计算机的高度抽象的特质使得人们误认为有关于它的理论将会是基于数学而非经验的。让我们展开讨论以下两个话题：1. 数学对计算机理论的作用。2.使用基于经验的方法研究计算机。
+
