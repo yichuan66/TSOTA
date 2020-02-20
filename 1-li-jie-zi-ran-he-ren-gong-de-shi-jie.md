@@ -281,3 +281,7 @@ A computer is an organization of elementary functional components in which, to a
 
 接下来我们讨论用经验方法研究计算机抽象模型的可行性。$$^{15}$$从经验角度看，大部分计算机的组织结构具有共性。它们都可以被分解成三部分：处理器，存储器，输入输出。（有些更大的系统像藻类群落一般由更小的系统组成，这些小系统通常具有上述的全部或部分功能，我在此先做一下简化。）它们都能够存取符号（程序）并且有执行程序的部件。它们中绝大部分的平行处理能力都非常弱，基本上都只能一件一件事地做。在处理符号之前，它们通常要先从大的存储池中被转移到处理器。最后，这些系统通常只能执行简单的指令，例如存储符号，对符号重新编码，复制符号，移动符号，擦除符号，比较符号。
 
+{% hint style="info" %}
+15. A. Newell and H. A. Simon, "Computer Science as Empirical Inquiry," Communications of the ACM, 19\(March 1976\):113 126. See also H. A. Simon, "Artificial Intelligence: An Empirical Science," Artificial Intelligence, 77\(1995\):95 127.
+{% endhint %}
+
