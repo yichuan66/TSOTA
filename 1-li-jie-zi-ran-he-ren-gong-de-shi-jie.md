@@ -285,3 +285,5 @@ A computer is an organization of elementary functional components in which, to a
 15. A. Newell and H. A. Simon, "Computer Science as Empirical Inquiry," Communications of the ACM, 19\(March 1976\):113 126. See also H. A. Simon, "Artificial Intelligence: An Empirical Science," Artificial Intelligence, 77\(1995\):95 127.
 {% endhint %}
 
+鉴于上述设备已经广泛流行，而且其性质与人类中枢神经系统类似，我们可以构建出关于它们的发展进化史。我们可以向学习兔子和花栗鼠一样研究计算机，并观察它们在不同环境下会如何发展。鉴于其行为主要反映了其功能性而非构成它们物理硬件，我们可以发展出一套关于它们的抽象通用的经验理论。
+
