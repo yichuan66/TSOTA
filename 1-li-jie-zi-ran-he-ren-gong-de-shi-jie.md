@@ -295,3 +295,5 @@ A computer is an organization of elementary functional components in which, to a
 16. 计算机研究基于实验和经验的特质在Maurice V. Wilkes于1967年的图灵讲座中有很好的叙述："Computers Then and Now," Journal of the Association for Computing Machinery, 15\(January 1968\):1 7.
 {% endhint %}
 
+同样的，那些用于解谜题或者证明题的计算机程序一般都在极其庞大复杂的任务环境中运行。尽管这些程序本身并不复杂，但我们并不能预判它们的行为以及性能，因为我们对其复杂的任务环境所知甚少。
+
