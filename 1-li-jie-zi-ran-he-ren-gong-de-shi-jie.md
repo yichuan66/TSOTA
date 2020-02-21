@@ -303,3 +303,7 @@ A computer is an organization of elementary functional components in which, to a
 17. Note, for example, the empirical data in Lawrence Wos, George A. Robinson, Daniel F. Carson, and Leon Shalla, "The Concept of Demodulation in Theorem Proving," Journal of the Association for Computing Machinery, 14\(October 1967\):698 709, and in several of the earlier papers referenced there. See also the collection of programs in Edward Feigenbaum and Julian Feldman \(eds.\), Computers and Thought \(New York: McGraw-Hill, 1963\). It is common practice in the field to title papers about heuristic programs, "Experiments with an XYZ Program."
 {% endhint %}
 
+### 计算机和思维
+
+当我们继续深入拓宽对计算机的研究时，我们发现其行为表现大都源于一些简单通用的规律。其行为之所以复杂是因为它要适应复杂的任务环境。
+
