@@ -297,3 +297,9 @@ A computer is an organization of elementary functional components in which, to a
 
 同样的，那些用于解谜题或者证明题的计算机程序一般都在极其庞大复杂的任务环境中运行。尽管这些程序本身并不复杂，但我们并不能预判它们的行为以及性能，因为我们对其复杂的任务环境所知甚少。
 
+所以在这个领域，理论分析是和大量的实验工作相辅相成的。近年来涌现的研究工作让我们清楚地了解到启发法\(heuristics\)可以有效地缩减问题空间，让搜索答案的过程更加迅速高效。以理论证明为例，近期的探索研究提供了很多启发式理论，比如埃尔布朗定理，归结原理，支持集策略等等。$$^{17}$$
+
+{% hint style="info" %}
+17. Note, for example, the empirical data in Lawrence Wos, George A. Robinson, Daniel F. Carson, and Leon Shalla, "The Concept of Demodulation in Theorem Proving," Journal of the Association for Computing Machinery, 14\(October 1967\):698 709, and in several of the earlier papers referenced there. See also the collection of programs in Edward Feigenbaum and Julian Feldman \(eds.\), Computers and Thought \(New York: McGraw-Hill, 1963\). It is common practice in the field to title papers about heuristic programs, "Experiments with an XYZ Program."
+{% endhint %}
+
