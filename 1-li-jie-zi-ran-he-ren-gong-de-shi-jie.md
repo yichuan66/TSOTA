@@ -289,3 +289,9 @@ A computer is an organization of elementary functional components in which, to a
 
 对“分时系统”的设计研究可以说是比较典型的通过经验研究计算机行为的例子。有关分时系统的理论是琐碎而不全面的，所以无法准确预计这类系统在使用中的表现。大部分初始设计都有很多的漏洞，当初设计中预估的性能表现与实际情况有很大偏差。
 
+在这样的情况下，比较可行的设计方法是先把系统造出来，然后根据其行为进行调整。在真实的情况中，计算机系统是一代一代进化的，每一代都根据前面的设计进行了修改和提升。我们或许能直接通过理论推演出这些设计，但是这太难了。我目前还没有见过能仅从理论推演出这类复杂系统的实现的人。目前来看，唯一可行的设计研究方法就是把系统造出来然后进行观察。$$^{16}$$
+
+{% hint style="info" %}
+16. 计算机研究基于实验和经验的特质在Maurice V. Wilkes于1967年的图灵讲座中有很好的叙述："Computers Then and Now," Journal of the Association for Computing Machinery, 15\(January 1968\):1 7.
+{% endhint %}
+
