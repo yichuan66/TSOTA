@@ -313,5 +313,21 @@ A computer is an organization of elementary functional components in which, to a
 
 计算机属于符号系统$$^{18}$$的一员，而符号系统则是人工事物中很重要的一类。符号系统中另外一个重要成员是人类的大脑，这也是本书主要的关注点。符号系统是近乎纯粹的人工事物，因为它们存在的理由就是适应环境。它们是有既定目标的信息处理系统，而且通常服务于一个它们所属的更大的系统。
 
+{% hint style="info" %}
+18. 相比“符号系统”这一称呼，“信息处理系统”更为常见。我将把它们作同义词使用。
+{% endhint %}
+
+### 符号系统的基本功能
+
+A physical symbol system holds a set of entities, called symbols. 
+
+
+
+These are physical patterns \(e.g., chalk marks on a blackboard\) that can occur as components of symbol structures \(sometimes called "expressions"\). 
+
+
+
+As I have already pointed out in the case of computers, a symbol system also possesses a number of simple processes that operate upon symbol structures processes that create, modify, copy, and destroy symbols. A physical symbol system is a machine that, as it moves through time, produces an evolving collection of symbol structures.19 Symbol structures can, and commonly do, serve as internal representations \(e.g., "mental images"\) of the environments to which the symbol system is seeking to adapt. They allow it to model that environment with greater or less veridicality and in greater or less detail, and consequently to reason about it. Of course, for this capability to be of any use to the symbol system, it must have windows on the world and hands, too. It must have means for acquiring information from the external environment that can be encoded into internal symbols, as well as means for producing symbols that initiate action upon the environment. Thus it must use symbols to designate objects and relations and actions in the world external to the system.
+
 
 
