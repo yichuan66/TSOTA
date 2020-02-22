@@ -333,5 +333,7 @@ A computer is an organization of elementary functional components in which, to a
 
 接下来的三章将完全基于这个假设：智能由符号系统产生。稍微正式一些的阐述是这样的：上文所述的符号系统是通用智能的充分必要条件。
 
-The hypothesis is clearly an empirical one, to be judged true or false on the basis of evidence. One task of chapters 3 and 4 will be to review some of the evidence, which is of two basic kinds. On the one hand, by constructing computer programs that are demonstrably capable of intelligent action, we provide evidence on the sufficiency side of the hypothesis. On the other hand, by collecting experimental data on human thinking that tend to show that the human brain operates as a symbol system, we add plausibility to the claims for necessity, for such data imply that all known intelligent systems \(brains and computers\) are symbol systems.
+这个假设显然是基于经验观察得出的，其正确性有待事实检验。第三章和第四章将展开讨论支持上述假设的两类事实。一方面，我们通过建造具有智能行为的计算机证明了符号系统产生智能的充分性。另一方面，我们通过研究人脑的运行方式证明了它是一个符号系统，进而在符号系统于智能的必然性上更进一步，因为这些事实表明到目前为止已知的智能系统都是符号系统。
+
+
 
