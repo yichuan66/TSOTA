@@ -319,15 +319,7 @@ A computer is an organization of elementary functional components in which, to a
 
 ### 符号系统的基本功能
 
-A physical symbol system holds a set of entities, called symbols. 
-
-
-
-These are physical patterns \(e.g., chalk marks on a blackboard\) that can occur as components of symbol structures \(sometimes called "expressions"\). 
-
-
-
-As I have already pointed out in the case of computers, a symbol system also possesses a number of simple processes that operate upon symbol structures processes that create, modify, copy, and destroy symbols. A physical symbol system is a machine that, as it moves through time, produces an evolving collection of symbol structures.19 Symbol structures can, and commonly do, serve as internal representations \(e.g., "mental images"\) of the environments to which the symbol system is seeking to adapt. They allow it to model that environment with greater or less veridicality and in greater or less detail, and consequently to reason about it. Of course, for this capability to be of any use to the symbol system, it must have windows on the world and hands, too. It must have means for acquiring information from the external environment that can be encoded into internal symbols, as well as means for producing symbols that initiate action upon the environment. Thus it must use symbols to designate objects and relations and actions in the world external to the system.
+符号系统拥有一套实体，叫做符号。它们通常是物理图案（例如黑板上的粉笔标记），而且一般被作为符号结构体的基础组件（这里的符号结构也可以被称作表达式）。就像我在上文讨论计算机时所指出的，符号系统具有一些简单的用于操作符号的流程，例如创造，修改，复制和删除。一个符号系统会生产出一系列的符号结构体$$^{19}$$，而这个系列会随着时间移动进化。符号结构体通常可以用于表示外部环境。它们使得符号系统能够建立关于外部环境的模型，并借助这个模型分析外部环境。当然，这个模型肯定不是详尽而真实的。在此基础上，符号系统还要能接收外部环境的信息，并且有作用于外部环境的手段。它要能将外部环境传入的信号转换成符号，以及把符号转换成对外部环境的影响。因此，符号系统必然使用符号来表示外界的事物，事物间的相互关系，以及作用于外部环境的动作。
 
 
 
