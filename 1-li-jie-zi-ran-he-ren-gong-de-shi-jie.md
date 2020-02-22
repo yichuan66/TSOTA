@@ -325,5 +325,7 @@ A computer is an organization of elementary functional components in which, to a
 19. Newell and Simon, "Computer Science as Empirical Inquiry," p. 116.
 {% endhint %}
 
+除了被符号系统操作之外，符号还可以用于制定符号系统所用的操作程序。所以，符号系统能够把支配其行为的程序存在自己的记忆中，并在需要的时候取用和执行。
+
 
 
