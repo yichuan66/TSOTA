@@ -30,3 +30,11 @@ H. A. Simon, "Rationality as Process and as Product of Thought," American Econom
 
 在现实中，企业还需要选择产品质量以及种类。很多情况下这些产品不是现成的，而是需要被设计和发明的。企业需要建造和计划生产工厂来产出适用的产品组合，并且要设计合适的营销手段。在这个过程中，课本中的简单例子逐渐变得不适用了，取而代之的是复杂的真实企业。每一步向真实情况的靠近都把我们从存在性理性推向程序性理性，从选择正确的行动与操作，过渡到寻找能够找到近似答案的方法。在这个过渡之后，有关企业的理论就变成了对不确定的情况进行评估的理论，以及有关计算的理论。显然，随着信息和计算变得越来越多，越来越模糊，这些理论会变得更加复杂。
 
+### 运筹学和管理学
+
+现今的应用科学中有几个分支是帮助企业实现程序性理性的$$^3$$。其中一个是运筹学，另一个是人工智能。运筹学主要研究高难度的多变量问题，有时还会包含不确定性。线性编程，整数编程，等候理论，以及线性决策法则都属于它的范围。
+
+{% hint style="info" %}
+3. 对于这些发展分支的简要论述，详见 H. A. Simon, "On How to Decide What to Do," The Bell Journal of Economics, 9\(1978\):494 507. 对于它们对管理产生的影响，详见H. A. Simon, The New Science of Management Decision, rev. ed. \(Englewood Cliffs, NJ: Prentice-Hall, 1977\), chapters 2 and 4.
+{% endhint %}
+
